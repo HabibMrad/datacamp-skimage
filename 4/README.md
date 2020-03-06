@@ -18,3 +18,5 @@ Activity type      | Description                                  | Points
 [Exercise](e/8.md) | Privacy protection                           |  100 xp
 [Exercise](e/9.md) | Help Sally restore her graduation photo      |  100 xp
 [Video](v/5.mp4)   | Amazing work!                                |   50 xp
+
+All lectures slides: [pdf](s.pdf)

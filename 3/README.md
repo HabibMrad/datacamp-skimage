@@ -18,3 +18,5 @@ Activity type       | Description                                  | Points
 [Exercise](e/8.md)  | Contouring shapes                            |  100 xp
 [Exercise](e/9.md)  | Find contours of an image that is not binary |  100 xp
 [Exercise](e/10.md) | Count the dots in a dice's image             |  100 xp
+
+All lectures slides: [pdf](s.pdf)

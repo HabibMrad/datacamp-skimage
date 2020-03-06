@@ -15,3 +15,5 @@ Activity type      | Description                              | Points
 [Exercise](e/6.md) | When the background isn't that obvious   | 100 xp
 [Exercise](e/7.md) | Trying other methods                     | 100 xp
 [Exercise](e/8.md) | Apply thresholding                       | 100 xp
+
+All lectures slides: [pdf](s.pdf)

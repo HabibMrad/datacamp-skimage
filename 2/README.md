@@ -19,3 +19,5 @@ Activity type       | Description                              | Points
 [Video](v/4.mp4)    | Morphology                               |  50 xp
 [Exercise](e/10.md) | Handwritten letters                      | 100 xp
 [Exercise](e/11.md) | Improving thresholded image              | 100 xp
+
+All lectures slides: [pdf](s.pdf)
