@@ -6,17 +6,16 @@ Jump into digital image structures and learn to process them! Extract data, tran
 
 ## Activities in this chapter
 
-Activity type           | Description                              | Points
-------------------------|------------------------------------------|-----------:
-[Video](1.mp4)          | Make images come alive with scikit-image |    50 xp
-[Multiple choice](1.md) | Is this gray or full of color?           |    50 xp
-[Interactive](2.md)     | RGB to grayscale                         |   100 xp
-[Video](2.mp4)          | NumPy for images                         |    50 xp
-[Interactive](3.md)     | Flipping out                             |   100 xp
-[Interactive](4.md)     | Histograms                               |   100 xp
-[Video](3.mp4)          | Getting started with thresholding        |    50 xp
-[Interactive](5.md)     | Apply global thresholding                |   100 xp
-[Interactive](6.md)     | When the background isn't that obvious   |   100 xp
-[Interactive](7.md)     | Trying other methods                     |   100 xp
-Interactive             | Apply thresholding                       |   100 xp
-**Total**               |                                          | **900 xp**
+Activity type             | Description                              | Points
+--------------------------|------------------------------------------|-------:
+[Video](v/1.mp4)          | Make images come alive with scikit-image |  50 xp
+[Multiple choice](e/1.md) | Is this gray or full of color?           |  50 xp
+[Interactive](e/2.md)     | RGB to grayscale                         | 100 xp
+[Video](v/2.mp4)          | NumPy for images                         |  50 xp
+[Interactive](e/3.md)     | Flipping out                             | 100 xp
+[Interactive](e/4.md)     | Histograms                               | 100 xp
+[Video](v/3.mp4)          | Getting started with thresholding        |  50 xp
+[Interactive](e/5.md)     | Apply global thresholding                | 100 xp
+[Interactive](e/6.md)     | When the background isn't that obvious   | 100 xp
+[Interactive](e/7.md)     | Trying other methods                     | 100 xp
+[Interactive](e/8.md)     | Apply thresholding                       | 100 xp
