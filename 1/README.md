@@ -12,7 +12,7 @@ Activity type           | Description                              | Points
 [Multiple choice](1.md) | Is this gray or full of color?           |    50 xp
 [Interactive](2.md)     | RGB to grayscale                         |   100 xp
 [Video](2.mp4)          | NumPy for images                         |    50 xp
-Interactive             | Flipping out                             |   100 xp
+[Interactive](3.md)     | Flipping out                             |   100 xp
 Interactive             | Histograms                               |   100 xp
 [Video](3.mp4)          | Getting started with thresholding        |    50 xp
 Interactive             | Apply global thresholding                |   100 xp
