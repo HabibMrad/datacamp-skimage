@@ -10,7 +10,7 @@ Activity type           | Description                              | Points
 ------------------------|------------------------------------------|-----------:
 [Video](1.mp4)          | Make images come alive with scikit-image |    50 xp
 [Multiple choice](1.md) | Is this gray or full of color?           |    50 xp
-Interactive             | RGB to grayscale                         |   100 xp
+[Interactive](2.md)     | RGB to grayscale                         |   100 xp
 [Video](2.mp4)          | NumPy for images                         |    50 xp
 Interactive             | Flipping out                             |   100 xp
 Interactive             | Histograms                               |   100 xp
