@@ -7,24 +7,24 @@ You will learn to **detect object shapes** using edge detection filters, improve
 ## Activities in this chapter
 
 Activity type   | Description                              | Points
-----------------|------------------------------------------|--------
-Video           | Jump into filtering                      |   50 xp
+----------------|------------------------------------------|--------:
+[Video](1.mp4)  | Jump into filtering                      |   50 xp
 Interactive     | Edge detection                           |  100 xp
 Interactive     | Blurring to reduce noise                 |  100 xp
-----------------|------------------------------------------|--------
-Video           | Contrast enhancement                     |   50 xp
+
+[Video](2.mp4)  | Contrast enhancement                     |   50 xp
 Multiple choice | What's the contrast of this image?       |   50 xp
 Interactive     | Medical images                           |  100 xp
 Interactive     | Aerial image                             |  100 xp
 Interactive     | Let's add some impact and contrast       |  100 xp
-----------------|------------------------------------------|--------
-Video           | Transformations                          |   50 xp
+
+[Video](3.mp4)  | Transformations                          |   50 xp
 Interactive     | Aliasing, rotating and rescaling         |  100 xp
 Interactive     | Enlarging images                         |  100 xp
 Interactive     | Proportionally resizing                  |  100 xp
-----------------|------------------------------------------|--------
-Video           | Morphology                               |   50 xp
+
+[Video](4.mp4)  | Morphology                               |   50 xp
 Interactive     | Handwritten letters                      |  100 xp
 Interactive     | Improving thresholded image              |  100 xp
-----------------|------------------------------------------|--------
+
 Total           |                                          | 1250 xp
