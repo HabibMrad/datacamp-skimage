@@ -17,6 +17,6 @@ Activity type           | Description                              | Points
 [Video](3.mp4)          | Getting started with thresholding        |    50 xp
 [Interactive](5.md)     | Apply global thresholding                |   100 xp
 [Interactive](6.md)     | When the background isn't that obvious   |   100 xp
-Interactive             | Trying other methods                     |   100 xp
+[Interactive](7.md)     | Trying other methods                     |   100 xp
 Interactive             | Apply thresholding                       |   100 xp
 **Total**               |                                          | **900 xp**
