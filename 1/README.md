@@ -15,7 +15,7 @@ Activity type           | Description                              | Points
 [Interactive](3.md)     | Flipping out                             |   100 xp
 [Interactive](4.md)     | Histograms                               |   100 xp
 [Video](3.mp4)          | Getting started with thresholding        |    50 xp
-Interactive             | Apply global thresholding                |   100 xp
+[Interactive](5.md)     | Apply global thresholding                |   100 xp
 Interactive             | When the background isn't that obvious   |   100 xp
 Interactive             | Trying other methods                     |   100 xp
 Interactive             | Apply thresholding                       |   100 xp
