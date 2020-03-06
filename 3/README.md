@@ -11,19 +11,15 @@ Activity type   | Description                                  | Points
 [Video](1.mp4)  | Image restoration                            |   50 xp
 Interactive     | Let's restore a damaged image                |  100 xp
 Interactive     | Removing logos                               |  100 xp
-
 [Video](2.mp4)  | Noise                                        |   50 xp
 Interactive     | Let's make some noise!                       |  100 xp
 Interactive     | Reducing noise                               |  100 xp
 Interactive     | Reducing noise while preserving edges        |  100 xp
-
 [Video](3.mp4)  | Superpixels & segmentation                   |   50 xp
 Multiple choice | Number of pixels                             |   50 xp
 Interactive     | Superpixel segmentation                      |  100 xp
-
 [Video](4.mp4)  | Finding contours                             |   50 xp
 Interactive     | Contouring shapes                            |  100 xp
 Interactive     | Find contours of an image that is not binary |  100 xp
 Interactive     | Count the dots in a dice's image             |  100 xp
-
 Total           |                                              | 1150 xp
