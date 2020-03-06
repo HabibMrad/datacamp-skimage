@@ -17,3 +17,27 @@ So far, you have done some very cool things with your image processing skills! I
 ## [4. Advanced Operations, Detecting Faces and Features](4/README.md)
 
 After completing this chapter, you will have a deeper knowledge of image processing as you will be able to **detect edges, corners, and even faces**! You will learn how to detect not just front faces but also face profiles, cat, or dogs. You will apply your skills to more complex **real-world applications**. Learn to master several widely used image processing techniques with very few lines of code!
+
+### Lectures
+
+#### Video lectures
+
+Each chapter has some video-lectures, located at `/v` subdirectory of chapter's directory.
+
+#### Lecture notes
+
+Each chapter has some lecture notes, located in the `/s.pdf` file of chapter's directory.
+
+### Exercises
+
+#### Tasks
+
+Each chapter has associated exercises, tasks are located at `/e` subdirectory of chapter's directory.
+
+#### Images
+
+Each exercise has an associated image, which is located in the `/i/x.{png|jpg|jpeg}` file, where `x` is exercise's id.
+
+#### Code
+
+Each exercise has some prewritten template codefor it, which is located in the `/c/x.py` file, where `x` is exercise's id.
