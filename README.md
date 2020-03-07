@@ -20,14 +20,14 @@ After completing this chapter, you will have a deeper knowledge of image process
 
 ### Lectures
 
-- **Video lectures**: each chapter has some video-lectures, located at `/v` subdirectory of chapter's directory.
+- **Video lectures**: each chapter has some video-lectures, located at `video` subdirectory of chapter's directory.
 
-- **Lecture notes**: each chapter has some lecture notes, located in the `/s.pdf` file of chapter's directory.
+- **Lecture notes**: each chapter has some lecture notes, located in the `slides.pdf` file of chapter's directory.
 
 ### Exercises
 
-- **Tasks**: each chapter has associated exercises, tasks are located at `/e` subdirectory of chapter's directory.
+- **Tasks**: each chapter has associated exercises, tasks are located at `exercises` subdirectory of chapter's directory.
 
-- **Images**: each exercise has an associated image, which is located in the `/i/x.{png|jpg|jpeg}` file, where `x` is exercise's id.
+- **Images**: each exercise has an associated image, which is located in the `images/exercise_id.{png|jpg|jpeg}` file.
 
-- **Code**: - each exercise has some prewritten template codefor it, which is located in the `/c/x.py` file, where `x` is exercise's id.
+- **Code**: each exercise has some prewritten template codefor it, which is located in the `code/exercise_id.py`.
